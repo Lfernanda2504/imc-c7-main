@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lfernanda2504/imc.git"
+    "url": "git+https://github.com/Lfernanda2504/imc-c7-main.git"
   },
   "bugs": {
-    "url": "https://github.com/Lfernanda2504/imc/issues"
+    "url": "https://github.com/Lfernanda2504/imc-c7-main.git/issues"
   },
-  "homepage": "https://Lfernanda2504.github.io/imc"
+  "homepage": "https://Lfernanda2504.github.io/imc-c7-main.git"
 }
