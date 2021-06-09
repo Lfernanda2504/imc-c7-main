@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "gh": "^2.8.9",
-    "pages": "^0.0.16"
+    "pages": "0.0.16"
   },
   "devDependencies": {},
   "repository": {
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/Lfernanda2504/imc/issues"
   },
-  "homepage": "https://github.com/Lfernanda2504/imc#readme"
+  "homepage": "https://Lfernanda2504.github.io/imc"
 }
